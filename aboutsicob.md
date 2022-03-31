@@ -3,7 +3,6 @@ layout: page
 title: About this Blog
 permalink: /aboutsicob/
 
-summary: I'm interested (and this blog is interested) in things that we are often told are boring: numbers, insurance, bureaucracy, budgets...
 ---
 
 **Boring**: "causing weariness and restlessness through lack of interest" ([Merriam-Webster](https://www.merriam-webster.com/dictionary/boring))
