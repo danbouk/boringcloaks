@@ -22,17 +22,17 @@ permalink: /democracysdata/
 <p></p>
 [Pre-order here!](https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543).
 
-*(Here because you heard a contest? Keep scrolling...)*
+*(Here because you heard about a contest? Keep scrolling...)*
 
 <p></p>
 
-<!---
+
 ---
 
-"Who knew stories about government and statistics could be so engrossing?!?! Through beautiful storytelling, Bouk makes an esoteric infrastructure utterly enthralling. Democracy's Data takes you on a delightful journey, peeling back layers to help the reader see what lies behind the numbers.”
+"Who knew stories about government and statistics could be so engrossing?!?! Through intimate, finely-wrought storytelling, Bouk makes an esoteric infrastructure utterly enthralling. Democracy's Data takes you on a captivating journey, peeling back layers to help the reader see what lies behind the numbers.”
 - danah boyd, partner at Microsoft Research and founder of Data & Society
 
-
+<!---
 
 "Dan Bouk has written an extraordinary new book.... *Democracy’s Data* tells the 'story' of the 1940 census, the 'hidden stories' that reveal the very ordinary day to day life of Americans in 1940, and how the census reverberated with the big newsworthy stories of the day:  Depression, imminent world war, race and inequality, technology and surveillance."
 - Margo Anderson, author of *The American Census: A Social History*
