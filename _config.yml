@@ -38,26 +38,10 @@ show_excerpts: true
 minima:
   date_format: "%-d %b %Y"
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:creator" content="@twitter_username">
-{% if page.title %}
-  <meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-  <meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-{% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
-{% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-{% if page.image %}
-  <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
-{% else %}
-  <meta name="twitter:image:src" content="/images/1930s_priority_line_chart.jpg>
-{% endif %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@danbouk" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:image" content="{{ site.liveurl }}/images/1930s_priority_line_chart.jpg" />
 
 # Exclude from processing.
 # The following items will not be processed, by default.
