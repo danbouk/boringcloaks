@@ -3,6 +3,7 @@ layout: page
 title: DEMOCRACY'S DATA
 permalink: /democracysdata/
 ---
+
 ![a book stands on edge, against a blue background. The title of the book is in red, blue, and black on a white cover.](/images/DemocracysData_fancy_mockup.jpg)
 
 <form
