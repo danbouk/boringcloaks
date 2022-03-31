@@ -39,8 +39,7 @@ minima:
   date_format: "%-d %b %Y"
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@site_username">
-<meta name="twitter:creator" content="@creator_username">
+<meta name="twitter:creator" content="@twitter_username">
 {% if page.title %}
   <meta name="twitter:title" content="{{ page.title }}">
 {% else %}
@@ -57,7 +56,7 @@ minima:
 {% if page.image %}
   <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}">
 {% else %}
-  <meta name="twitter:image:src" content="{{ site.url }}/images/1930s_priority_line_chart.jpg>
+  <meta name="twitter:image:src" content="/images/1930s_priority_line_chart.jpg>
 {% endif %}
 
 # Exclude from processing.
