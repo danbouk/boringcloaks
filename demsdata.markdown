@@ -34,7 +34,7 @@ permalink: /democracysdata/
 
 
 
-"In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. “We, the people,” the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were.""
+"In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. “We, the people,” the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were."
 - Margo Anderson, author of *The American Census: A Social History*
 
 
