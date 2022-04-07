@@ -32,11 +32,11 @@ permalink: /democracysdata/
 "Who knew stories about government and statistics could be so engrossing?!?! Through intimate, finely-wrought storytelling, Bouk makes an esoteric infrastructure utterly enthralling. Democracy's Data takes you on a captivating journey, peeling back layers to help the reader see what lies behind the numbers.”
 - danah boyd, partner at Microsoft Research and founder of Data & Society
 
-<!---
 
-"Dan Bouk has written an extraordinary new book.... *Democracy’s Data* tells the 'story' of the 1940 census, the 'hidden stories' that reveal the very ordinary day to day life of Americans in 1940, and how the census reverberated with the big newsworthy stories of the day:  Depression, imminent world war, race and inequality, technology and surveillance."
+
+"In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. “We, the people,” the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were.""
 - Margo Anderson, author of *The American Census: A Social History*
---->
+
 
 ---
 
