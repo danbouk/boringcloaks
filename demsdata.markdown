@@ -28,15 +28,21 @@ permalink: /democracysdata/
 
 
 ---
-
-"Who knew stories about government and statistics could be so engrossing?!?! Through intimate, finely-wrought storytelling, Bouk makes an esoteric infrastructure utterly enthralling. Democracy's Data takes you on a captivating journey, peeling back layers to help the reader see what lies behind the numbers.”
-- danah boyd, partner at Microsoft Research and founder of Data & Society
-
+"Dan Bouk's Democracy's Data is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide? Bouk tells us what is at stake: The messy richness of the human being versus the prejudice and governmental power encoded in data. A battle for the very definition of personhood."
+- Ellen Ullman, author of *Close to the Machine*
 
 
 "In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. “We, the people,” the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were."
 - Margo Anderson, author of *The American Census: A Social History*
 
+
+"Who knew stories about government and statistics could be so engrossing?!?! Through intimate, finely-wrought storytelling, Bouk makes an esoteric infrastructure utterly enthralling. Democracy's Data takes you on a captivating journey, peeling back layers to help the reader see what lies behind the numbers.”
+- danah boyd, partner at Microsoft Research and founder of Data & Society
+
+
+"With a gift for stories and abundance of acutely probing questions, Dan Bouk brings the making of the U.S. census alive.  In sharply etched detail, he shows how democracy’s data was produced:  from the experts who wrote the census questions, to the politicians who tried to shape and exploit their work, to the millions of doorstep negotiations between census takers and their subjects where ordinary Americans worked to fit themselves into--or resist--its categories.  The politics of numbers has rarely been told as grippingly before."   
+
+- Daniel T. Rodgers, author of *Age of Fracture*
 
 ---
 
