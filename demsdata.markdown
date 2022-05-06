@@ -28,8 +28,11 @@ permalink: /democracysdata/
 
 
 ---
-"Dan Bouk's Democracy's Data is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide? Bouk tells us what is at stake: The messy richness of the human being versus the prejudice and governmental power encoded in data. A battle for the very definition of personhood."
+"Dan Bouk's *Democracy's Data* is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide? Bouk tells us what is at stake: The messy richness of the human being versus the prejudice and governmental power encoded in data. A battle for the very definition of personhood."
 - Ellen Ullman, author of *Close to the Machine*
+
+"A gifted storyteller, Dan Bouk reveals the political drama rumbling beneath a single census question and he illuminates the stakes erupting from a solitary statistic. It turns out before there was Big Data there was old-fashioned big data, no less political and consequential eighty years ago than it is today. The humanity behind the numbers has always mattered, but *Democracy’s Data* transformed my black & white understanding into technicolor! Everyone who cares about the plight of our democracy owes it to themself to read this essential book." 
+- Ruha Benjamin, author of  Race after Technology
 
 
 "In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. “We, the people,” the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were."
