@@ -50,11 +50,13 @@ permalink: /democracysdata/
     <img src="/images/DemocracysData_fancy_mockup.jpg" alt="A book stands on edge, against a blue background. The title of the book is in red, blue, and black on a white cover." >
   </div>
   <div class="cover-text">
+  <p><i>Coming this August</i></p>
   <p><b>"Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br>
   Bouk tells us what is at stake: A battle for the very definition of personhood."</b><br>
   - Ellen Ullman, author of <i>Close to the Machine</i></p>
 
-<a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Pre-order here!</a>
+
+<a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Pre-order here! Ships 08-23-2022</a>
 
 <p></p>
 
