@@ -91,6 +91,11 @@ permalink: /democracysdata/
 - Ruha Benjamin, author of <i>Race after Technology</i>
 </p>
 
+<p>
+<b>"A tour de force of archival research that reads like a detective story, <i>Democracy's Data</i> reveals an entire secret history behind one of the most underappreciated institutions of modern civic life: the census. Following Dan Bouk through this riveting exploration of what it means to count and be counted has forever changed my understanding of the relationship between information and a democratic society.</b><br>
+- Steven Johnson, author of <i>The Ghost Map</i> and <i>Extra Life</i>
+</p>
+
 <h3>
 The census isn't just a data-collection process; it's a ritual, and a tool, of American democracy. Behind every neat grid of numbers is a collage of messy, human stories...<br>
 You just have to know how to read them.
@@ -123,6 +128,10 @@ The 1940 census is a crucial entry in American history, a controversial dataset 
 - danah boyd, partner at Microsoft Research and founder of Data & Society
 </p>
 
+<p>
+<b>"The U.S. Census is one of the most important yet least understood parts of American democracy and Dan Bouk masterfully tells this story through rich characters, eye-popping data, and deep historical analysis. A must-read for students of history and politics." </b></br>
+- Ari Berman, author of <i>Give Us the Ballot: The Modern Struggle for Voting Rights in America</i>
+</p>
 
 <hr width = "100%">
 
