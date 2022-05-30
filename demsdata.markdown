@@ -129,7 +129,7 @@ The 1940 census is a crucial entry in American history, a controversial dataset 
 </p>
 
 <p>
-<b>"The U.S. Census is one of the most important yet least understood parts of American democracy and Dan Bouk masterfully tells this story through rich characters, eye-popping data, and deep historical analysis. A must-read for students of history and politics." </b></br>
+<b>"The U.S. Census is one of the most important yet least understood parts of American democracy and Dan Bouk masterfully tells this story through rich characters, eye-popping data, and deep historical analysis. A must-read for students of history and politics." </b><br>
 - Ari Berman, author of <i>Give Us the Ballot: The Modern Struggle for Voting Rights in America</i>
 </p>
 
