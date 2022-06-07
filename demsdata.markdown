@@ -133,6 +133,10 @@ The 1940 census is a crucial entry in American history, a controversial dataset 
 - Ari Berman, author of <i>Give Us the Ballot: The Modern Struggle for Voting Rights in America</i>
 </p>
 
+<p>
+<b>"Page by page, Bouk polishes the seemingly dull census into a scintillating thing, gleaming with stories and sparkling with insight. Democracy's Data is a must-read for anyone who wants to know how data defines our democracy and our lives."</b><br>
+— Jer Thorp, author of <i>Living in Data</i>
+
 <hr width = "100%">
 
 <hr width = "100%">
