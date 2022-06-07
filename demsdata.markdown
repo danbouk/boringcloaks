@@ -2,6 +2,7 @@
 layout: page
 title: DEMOCRACY'S DATA
 permalink: /democracysdata/
+image: /images/DemocracysData_fancy_mockup.jpg
 ---
 <head>
 <style type="text/css">
