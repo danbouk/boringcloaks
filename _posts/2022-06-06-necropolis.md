@@ -3,6 +3,7 @@ layout: post
 title:  "Epidemic Disease and Insurance Statistics"
 date:   2022-06-06 00:16:35 -0400
 categories:
+image: /images/1860_MONY_classes.jpg
 ---
 
 ![a map of the United States in 1860 that divides the country into 7 geographical classes, each shaded a different color](/images/1860_MONY_classes.jpg)
