@@ -47,10 +47,16 @@ image: /images/DemocracysData_fancy_mockup.jpg
 </head>
 <body>
 
-<b>"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</b> -- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
+<b>"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....
+<br>
+Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</b>
+<br>
+-- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
+<br>
 <p>
 <a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Order Now!</a>
 </p>
+
 <p></p>
 <div class="cover-layout">
   <div class="cover-image">
@@ -93,10 +99,10 @@ image: /images/DemocracysData_fancy_mockup.jpg
 --->
 
 <p><b> "A deep dive into the 1940 U.S. census: how it was created, completed, deployed, and even weaponized and what it can teach us about American democracy....A page-turning examination of why we need to understand the census and its wide-ranging effects."</b><br>
-- *Booklist Reviews*
+- <i>Booklist Reviews<i>
 
 <p><b> "Reading the U.S. census is daunting, but cultural historian Bouk reveals the stories and history of the individuals, families, and communities behind these figures. In a first-person, casual style, Bouk analyzes the questions that have been asked by the Census Bureau and what they mean...Genealogists, history lovers, and anyone interested in how government works will find this a fun and revealing history of how politics, racism, and bias affect the census. A must purchase for public and academic libraries."</b><br>
-- [*Kirkus Reviews*](https://www.kirkusreviews.com/book-reviews/dan-bouk/democracys-data/)
+- <a href="https://www.kirkusreviews.com/book-reviews/dan-bouk/democracys-data/"><i>Kirkus Reviews</i></a>
 
 <p><b>"Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br>
 Bouk tells us what is at stake: A battle for the very definition of personhood."</b><br>
