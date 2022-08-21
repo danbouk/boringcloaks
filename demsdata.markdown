@@ -47,9 +47,9 @@ image: /images/DemocracysData_fancy_mockup.jpg
 </head>
 <body>
 
-"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement." -- [*Washington Post*](https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/)
+"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement." -- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
 
-[Order Now!](https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543)
+<a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Order Now!</a>
 
 <div class="cover-layout">
   <div class="cover-image">
@@ -58,10 +58,10 @@ image: /images/DemocracysData_fancy_mockup.jpg
   <div class="cover-text">
   <h2>Upcoming Events</h2>
   <P>
-  August 30, 2022 at 6pm ET: Join Dan for an online lecture in the American Ancestors series, sponsored by the New England Historic Genealogical Society. [REGISTER HERE.](https://hubs.americanancestors.org/democracys-data)
+  <b>August 30, 2022 at 6pm ET</b>: Join Dan for an online lecture in the American Ancestors series, sponsored by the New England Historic Genealogical Society. <a href="https://hubs.americanancestors.org/democracys-data">REGISTER HERE.</a>
   </p>
   <P>
-  September 8, 2022 at 1pm ET: Dan talks with Maud Newton, author of [*Ancestor Trouble*](https://www.penguinrandomhouse.com/books/248348/ancestor-trouble-by-maud-newton/) in an online event hosted by the US National Archives. [WATCH HERE.](https://www.youtube.com/watch?v=2_iblvMlfiM)
+  <b>September 8, 2022 at 1pm ET</b>: Dan talks with Maud Newton, author of <a href="https://www.penguinrandomhouse.com/books/248348/ancestor-trouble-by-maud-newton/"><i>Ancestor Trouble</i></a> in an online event hosted by the US National Archives. <a href="https://www.youtube.com/watch?v=2_iblvMlfiM">WATCH HERE.</a>
   </p>
 
 <p></p>
