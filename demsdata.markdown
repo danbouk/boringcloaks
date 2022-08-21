@@ -47,12 +47,14 @@ image: /images/DemocracysData_fancy_mockup.jpg
 </head>
 <body>
 
-"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement." -- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
-
+<b>"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</b> -- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
+<p>
 <a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Order Now!</a>
-
+</p>
+<p></p>
 <div class="cover-layout">
   <div class="cover-image">
+  <br><br>
     <img src="/images/DemDatapile.jpg" alt="A stack of books lay on their sides, each bearing the title Democracy's Data by Dan Bouk." >
   </div>
   <div class="cover-text">
