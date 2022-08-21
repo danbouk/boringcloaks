@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DEMOCRACY'S DATA
+title: Democracy's Data
 permalink: /democracysdata/
 image: /images/DemocracysData_fancy_mockup.jpg
 ---
@@ -46,18 +46,23 @@ image: /images/DemocracysData_fancy_mockup.jpg
 
 </head>
 <body>
+
+"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement." -- [*Washington Post*](https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/)
+
+[Order Now!](https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543)
+
 <div class="cover-layout">
   <div class="cover-image">
-    <img src="/images/DemocracysData_fancy_mockup.jpg" alt="A book stands on edge, against a blue background. The title of the book is in red, blue, and black on a white cover." >
+    <img src="/images/DemDatapile.jpg" alt="A stack of books lay on their sides, each bearing the title Democracy's Data by Dan Bouk." >
   </div>
   <div class="cover-text">
-  <p><i>Coming this August</i></p>
-  <p><b>"Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br>
-  Bouk tells us what is at stake: A battle for the very definition of personhood."</b><br>
-  - Ellen Ullman, author of <i>Close to the Machine</i></p>
-
-
-<a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Pre-order here! Ships 08-23-2022</a>
+  <h2>Upcoming Events</h2>
+  <P>
+  August 30, 2022 at 6pm ET: Join Dan for an online lecture in the American Ancestors series, sponsored by the New England Historic Genealogical Society. [REGISTER HERE.](https://hubs.americanancestors.org/democracys-data)
+  </p>
+  <P>
+  September 8, 2022 at 1pm ET: Dan talks with Maud Newton, author of [*Ancestor Trouble*](https://www.penguinrandomhouse.com/books/248348/ancestor-trouble-by-maud-newton/) in an online event hosted by the US National Archives. [WATCH HERE.](https://www.youtube.com/watch?v=2_iblvMlfiM)
+  </p>
 
 <p></p>
 
@@ -85,7 +90,15 @@ image: /images/DemocracysData_fancy_mockup.jpg
 <p></p>
 --->
 
+<p><b> "A deep dive into the 1940 U.S. census: how it was created, completed, deployed, and even weaponized and what it can teach us about American democracy....A page-turning examination of why we need to understand the census and its wide-ranging effects."</b><br>
+- *Booklist Reviews*
 
+<p><b> "Reading the U.S. census is daunting, but cultural historian Bouk reveals the stories and history of the individuals, families, and communities behind these figures. In a first-person, casual style, Bouk analyzes the questions that have been asked by the Census Bureau and what they mean...Genealogists, history lovers, and anyone interested in how government works will find this a fun and revealing history of how politics, racism, and bias affect the census. A must purchase for public and academic libraries."</b><br>
+- [*Kirkus Reviews*](https://www.kirkusreviews.com/book-reviews/dan-bouk/democracys-data/)
+
+<p><b>"Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br>
+Bouk tells us what is at stake: A battle for the very definition of personhood."</b><br>
+- Ellen Ullman, author of <i>Close to the Machine</i></p>
 
 <p>
 <b>"A gifted storyteller, Dan Bouk reveals the political drama rumbling beneath a single census question and he illuminates the stakes erupting from a solitary statistic. It turns out before there was Big Data there was old-fashioned big data, no less political and consequential eighty years ago than it is today. The humanity behind the numbers has always mattered, but <i>Democracy’s Data</i> transformed my black & white understanding into technicolor! Everyone who cares about the plight of our democracy owes it to themself to read this essential book."</b><br>
