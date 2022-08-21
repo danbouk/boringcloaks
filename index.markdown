@@ -33,12 +33,13 @@ Want <i> (very occasional) </i> updates? <br>
 ---
 ---
 
-Out soon! -- DEMOCRACY'S DATA<br>
-![Democracy's Data Dan Bouk](/images/dems_data_spine.jpg)
+DEMOCRACY'S DATA is OUT NOW!<br>
+![Democracy's Data Dan Bouk](/images/book-yellow-wall.jpg)
 The Hidden Stories of the US Census<br>
 and How to Read Them<br>
-w/ [MCDxFSG](https://us.macmillan.com/books/9780374602543/democracysdata) on 23 August 2022<br>
-[Pre-order now!](https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543)
+w/ [MCDxFSG](https://us.macmillan.com/books/9780374602543/democracysdata)
+[Order now!](https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543)
+
 
 
 
