@@ -28,6 +28,7 @@ image: /images/DemocracysData_fancy_mockup.jpg
     box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.125);
   }
 
+
   @media screen and (max-width: 640px) {
     div.cover-layout {
       display: block;
@@ -47,15 +48,119 @@ image: /images/DemocracysData_fancy_mockup.jpg
 </head>
 <body>
 
-<b>"Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....
-<br>
-Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</b>
-<br>
--- <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><i>Washington Post</i></a>
-<br>
+<div class="cover-layout">
+  <div class="cover-text">
+<P>
+<i>Democracy's Data</i> is out in the wild, burrowing among the shelves of your neighborhood bookstore, lurking in your public library, prowling on your favorite online sales platform.</p>
 <p>
-<a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">Order Now!</a>
+Don't take my word for it. You can <a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">buy your own copy here</a>!
 </p>
+<P>
+<a href="https://www.nytimes.com/2022/08/28/books/democracys-data-dan-bouk.html">Alexandra Jacobs at the <i>New York Times</i></a> called it "endearingly nerdy," and also "rich and ruminative." The headline declares it is "deft and surprisingly lively." I can't decide whether to faint or blush...
+</p>
+</div>
+  <div class="cover-image">
+    <img src="/images/DemDatapile.jpg" alt="A stack of books lay on their sides, each bearing the title Democracy's Data by Dan Bouk." >
+  </div>
+
+</div>
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/danbouk"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/danbouk', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+
+  <label for="bd-email">For updates and occasional musings, sign-up for Dan's free e-mail newsletter:</label><br>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
+<p></p>
+<hr>
+
+<h3>Upcoming Events</h3>
+<ul>
+<li>
+Wednesday, Sept. 21 at 4:15pm PT / 7:15pm ET<br>
+<b>Berkeley, CA and <i>online</i></b>
+<br>DEM DATA at UC Berkeley I-School
+<br>
+<a href="https://www.ischool.berkeley.edu/events/2022/democracys-data-hidden-stories-us-census-and-how-read-them">MORE INFO</a>
+<br>#%<br>
+</li>
+<li>
+Thursday, Sept. 29 at 3:30pm ET<br>
+<b>New York Public Library <i>online</i></b>
+<br>"Stories Behind the Census" a DOC CHAT with Julie Golia (great especially for teachers!)
+<br><a href="https://www.nypl.org/events/programs/2022/09/29/doc-chat-episode-55-stories-behind-census-0">
+MORE INFO</a>
+<br>#%<br>
+</li>
+<li>
+Thursday, October 13 at 1pm ET<br>
+<b>US National Archives Museum <i>online</i></b>
+<br>"Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets" a discussion with leading librarians specializing in genealogical research, moderated by Dan
+<br><a href="https://www.archives.gov/calendar/event/family-histories-and-beyond-investigations-in-1950-u-s-census-sheets">
+MORE INFO</a>
+<br>#%<br>
+</li>
+</ul>
+
+<h3>Events You Might Have Missed</h3>
+<p>They were recorded!</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=2_iblvMlfiM">Watch Dan and Maud Newton</a> speak at a National Archives event in wide-ranging conversation about the census and the records we rely on to construct stories about our families, communities, and country.</li>
+<li>
+<a href="https://www.youtube.com/watch?v=ZauBZviu_xE">Watch Dan</a> tell the story of <i>Democracy's Data</i> for the New England Historic Genealogical Society.
+</li>
+</ul>
+
+
+<h3>Democracy's Data in Bite-Sized Pieces</h3>
+<ul>
+<li>Read <a href="https://www.wired.com/story/us-census-queerness-data/">How Does Queerness Fit Into the US Census?</a> excerpted for <i>WIRED</i>.</li>
+<li>Read <a href="https://lithub.com/what-langston-hughes-understood-about-how-power-relations-shaped-us-census-data/">What Langston Hughes Understood about How Power Relations Shaped US Census Data</a> excerpted for <i>LIT HUB</i>.</li>
+<li>Read <a href="https://www.wired.com/story/census-algorithm-politics/">Democracy Is Asking Too Much of Its Data</a> written for <i>WIRED</i>.</li>
+<li>
+<a href="https://draftingthepast.com/?p=2288">Listen to Dan, interviewed by Kate Carpenter,</a> as they talk about the craft of writing history.
+</li>
+<li>
+<a href="https://www.kqed.org/forum/2010101888727/1950-census-opens-window-into-american-history">Listen to Dan, with Margo Anderson, interviewed by Alexis Madrigal,</a> as they talk about the 1950 census and US history, on San Francisco's KQED.
+</li>
+</ul>
+
+<h3>People are saying nice things!</h3>
+
+<a href="https://www.nytimes.com/2022/08/28/books/democracys-data-dan-bouk.html"><b>THE NEW YORK TIMES</b></a>
+<p>
+<blockquote>Counting the population of America, it seems, is akin to both conducting a symphony and watching a jazz ensemble go to town...<br><br>
+The book’s straightforward title undersells its playful contents. “Democracy’s Data” is ruminative and rich; it makes the dull old census a feast for the senses.</blockquote>
+</p>
+
+<a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><b>THE WASHINGTON POST</b></a>
+<p>
+<blockquote>Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....<br><br>
+Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</blockquote>
+</p>
+
+<a href="https://nightingaledvs.com/review-dan-bouk-democracys-datathe-hidden-stories-in-the-u-s-census-and-how-to-read-them/"><b>NIGHTINGALE MAGAZINE</b></a>
+<p>
+<blockquote>The practice of data storytelling often focuses on weaving a narrative by highlighting themes from a dataset. Author Dan Bouk flips this conventional practice on its head by instead telling a powerful story about the data itself.....<br><br>
+When we visualize various types of data and use those visualizations to tell stories, we should take a minute to consider the story of how that data came to be in the first place. Rather than uncritically assuming the objectivity of data we work with, this book calls us to strategically assess the frame of the dataset, the way in which the data was gathered, and how we are using it. This book is a crucial read for anyone within the data visualization community who wants to learn how to read the stories behind the data."</blockquote>
+</p>
+
+<a href="https://www.kirkusreviews.com/book-reviews/dan-bouk/democracys-data/"><b>KIRKUS REVIEWS</b></a>
+<p>
+<blockquote>A deep dive into the 1940 U.S. census: how it was created, completed, deployed, and even weaponized and what it can teach us about American democracy....<br><br>
+A page-turning examination of why we need to understand the census and its wide-ranging effects.</blockquote>
+</p>
+
+
+<!---
+
+
 
 <p></p>
 <div class="cover-layout">
@@ -92,12 +197,9 @@ Bouk uncovers the great paradox about the decennial count: that it is an impossi
 
 <p></p>
 
-<!---
-*(Here because you heard about a contest? Keep scrolling...)*
-
-<p></p>
 --->
 
+<!---
 <p><b> "A deep dive into the 1940 U.S. census: how it was created, completed, deployed, and even weaponized and what it can teach us about American democracy....A page-turning examination of why we need to understand the census and its wide-ranging effects."</b><br>
 - <i>Booklist Reviews<i>
 
