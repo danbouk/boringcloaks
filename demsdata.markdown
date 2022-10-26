@@ -104,7 +104,7 @@ Wednesday, Oct. 26 at 7pm ET<br>
 <a href="https://vimeo.com/755290749">Watch Dan and the NYPL's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the New York Public Library.
 </li>
 <li>
-<a href="https://www.youtube.com/watch?v=a4w2Bp0h-bg">Watch Dan moderate a National Archives panel of leading librarians on the topic "Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets"
+<a href="https://www.youtube.com/watch?v=a4w2Bp0h-bg">Watch Dan moderate a National Archives panel of leading librarians</a> on the topic "Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets"
 </li>
 </ul>
 
