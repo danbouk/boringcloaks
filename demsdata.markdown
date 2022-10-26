@@ -83,29 +83,14 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <h3>Upcoming Events</h3>
 <ul>
 <li>
-Wednesday, Sept. 21 at 4:15pm PT / 7:15pm ET<br>
-<b>Berkeley, CA and <i>online</i></b>
-<br>DEM DATA at UC Berkeley I-School
+Wednesday, Oct. 26 at 7pm ET<br>
+<b>Humanities NY <i>online</i></b>
+<br>HNY Community Conversations: Data and Democracy with Dan Bouk
 <br>
-<a href="https://www.ischool.berkeley.edu/events/2022/democracys-data-hidden-stories-us-census-and-how-read-them">MORE INFO</a>
+<a href="https://www.eventbrite.com/e/hny-community-conversations-data-democracy-with-dan-bouk-tickets-435712045457?aff=Twitter">MORE INFO</a>
 <br>#%<br>
 </li>
-<li>
-Thursday, Sept. 29 at 3:30pm ET<br>
-<b>New York Public Library <i>online</i></b>
-<br>"Stories Behind the Census" a DOC CHAT with Julie Golia (great especially for teachers!)
-<br><a href="https://www.nypl.org/events/programs/2022/09/29/doc-chat-episode-55-stories-behind-census-0">
-MORE INFO</a>
-<br>#%<br>
-</li>
-<li>
-Thursday, October 13 at 1pm ET<br>
-<b>US National Archives Museum <i>online</i></b>
-<br>"Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets" a discussion with leading librarians specializing in genealogical research, moderated by Dan
-<br><a href="https://www.archives.gov/calendar/event/family-histories-and-beyond-investigations-in-1950-u-s-census-sheets">
-MORE INFO</a>
-<br>#%<br>
-</li>
+
 </ul>
 
 <h3>Events You Might Have Missed</h3>
@@ -114,6 +99,12 @@ MORE INFO</a>
 <li><a href="https://www.youtube.com/watch?v=2_iblvMlfiM">Watch Dan and Maud Newton</a> speak at a National Archives event in wide-ranging conversation about the census and the records we rely on to construct stories about our families, communities, and country.</li>
 <li>
 <a href="https://www.youtube.com/watch?v=ZauBZviu_xE">Watch Dan</a> tell the story of <i>Democracy's Data</i> for the New England Historic Genealogical Society.
+</li>
+<li>
+<a href="https://vimeo.com/755290749">Watch Dan and the NYPL's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the New York Public Library.
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=a4w2Bp0h-bg">Watch Dan moderate a National Archives panel of leading librarians on the topic "Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets"
 </li>
 </ul>
 
