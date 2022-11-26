@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Democracy's Data
+title: DEMOCRACY'S DATA
 permalink: /democracysdata/
 image: /images/DemocracysData_fancy_mockup.jpg
 ---
@@ -51,7 +51,10 @@ image: /images/DemocracysData_fancy_mockup.jpg
 <div class="cover-layout">
   <div class="cover-text">
 <P>
-<i>Democracy's Data</i> is out in the wild, burrowing among the shelves of your neighborhood bookstore, lurking in your public library, prowling on your favorite online sales platform.</p>
+<b><i>Democracy's Data</i> is one of the <i>New York Times's</i> <a href="https://www.nytimes.com/interactive/2022/11/22/books/notable-books.html">100 notable books</a> for 2022!!</b> </p>
+
+<p>
+You can find it out in the wild, lurking in your public library, begging to be bought at your neighborhood bookstore, and (of course) prowling on your favorite online sales platform.</p>
 <p>
 Don't take my word for it. You can <a href="https://bookshop.org/books/democracy-s-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them/9780374602543">buy your own copy here</a>!
 </p>
@@ -80,6 +83,7 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <p></p>
 <hr>
 
+<!---
 <h3>Upcoming Events</h3>
 <ul>
 <li>
@@ -93,6 +97,8 @@ Wednesday, Oct. 26 at 7pm ET<br>
 
 </ul>
 
+--->
+
 <h3>Events You Might Have Missed</h3>
 <p>They were recorded!</p>
 <ul>
@@ -101,7 +107,10 @@ Wednesday, Oct. 26 at 7pm ET<br>
 <a href="https://www.youtube.com/watch?v=ZauBZviu_xE">Watch Dan</a> tell the story of <i>Democracy's Data</i> for the New England Historic Genealogical Society.
 </li>
 <li>
-<a href="https://vimeo.com/755290749">Watch Dan and the NYPL's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the New York Public Library.
+<a href= "https://www.youtube.com/watch?v=PVdek1yDja0">Watch Dan</a> talk with Alex Hanna, Director of Research at the Distributed AI Research Institute, in a conversation hosted by Data & Society's People and Culture Manager, Ronteau Coppin.
+</li>
+<li>
+<a href="https://www.nypl.org/blog/2022/11/04/doc-chat-ep55-stories-behind-census">Watch Dan and the New York Public Library's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the NYPL.
 </li>
 <li>
 <a href="https://www.youtube.com/watch?v=a4w2Bp0h-bg">Watch Dan moderate a National Archives panel of leading librarians</a> on the topic "Family Histories and Beyond: Investigations in 1950 U.S. Census Sheets"
@@ -114,13 +123,35 @@ Wednesday, Oct. 26 at 7pm ET<br>
 <li>Read <a href="https://www.wired.com/story/us-census-queerness-data/">How Does Queerness Fit Into the US Census?</a> excerpted for <i>WIRED</i>.</li>
 <li>Read <a href="https://lithub.com/what-langston-hughes-understood-about-how-power-relations-shaped-us-census-data/">What Langston Hughes Understood about How Power Relations Shaped US Census Data</a> excerpted for <i>LIT HUB</i>.</li>
 <li>Read <a href="https://www.wired.com/story/census-algorithm-politics/">Democracy Is Asking Too Much of Its Data</a> written for <i>WIRED</i>.</li>
+<li>Read <a href = "https://civilrights.org/blog/the-census-as-a-tool-of-american-democracy/#" >"The Census as a Tool of American Democracy,"</a> an interview by Rachel Hooper at the Leadership Conference on Civil and Human Rights
+</li>
 <li>
 <a href="https://draftingthepast.com/?p=2288">Listen to Dan, interviewed by Kate Carpenter,</a> as they talk about the craft of writing history.
 </li>
 <li>
 <a href="https://www.kqed.org/forum/2010101888727/1950-census-opens-window-into-american-history">Listen to Dan, with Margo Anderson, interviewed by Alexis Madrigal,</a> as they talk about the 1950 census and US history, on San Francisco's KQED.
 </li>
+<li>
+Read this interview, <a href = "https://orderofm.com/conversation/reading-stories-in-data/" >"Reading Stories in Data"</a> with historian of science Sarah Pickman at <i>The Order of Multitudes</i>
+</li>
+<li>
+<a href="https://newbooksnetwork.com/democracys-data">Listen</a> to Dan talk <i>Democracy's Data</i> with sociologist Deidre Tyler on the <i>New Books Networks</i>.
+</li>
+<li>
+"I look at numbers and databases the way people look at poems and paintings." Read this <a href = "https://paw.princeton.edu/article/new-book-dan-bouk-09-finds-stories-us-census" >"Tiger of the Week" profile</a> of Dan by David Marcus for the <i>Princeton Alumni Weekly</i>
+</li>
+<li>
+Read this <a href= "https://honorscollege.msu.edu/news/news-page20.html" >profile of Dan at the Michigan State Honors College website</a> and learn that "Oats" is more than just a grain.
+</li>
 </ul>
+
+<h3>What's Up with that Beautiful Book?</h3>
+<p>
+Democracy's Data is a gorgeous object. That's due in large part to the cover designed by Ben Denzer. As the folks at <i>Fonts in Use</i> <a href= "https://fontsinuse.com/uses/48814/democracy-s-data-by-dan-bouk">explain</a>: "Bold compressed type combined with strategic color make for a memorable typographic image and an effective reading of a long title."
+</p>
+<p>
+After were done ooh-ing and ahh-ing over a cover mockup, Robin Sloan and I set out to turn it into a data visualization. Click <a href="https://www.shroudedincloaksofboringness.com/2022/05/30/housesizeviz.html">here</a> to see the animated result!
+</p>
 
 <h3>People are saying nice things!</h3>
 
@@ -136,6 +167,12 @@ The book’s straightforward title undersells its playful contents. “Democracy
 Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</blockquote>
 </p>
 
+<a href="https://www.oprahdaily.com/entertainment/books/g41756117/political-books-elections/"><b>OPRAH DAILY</b></a>
+<p>
+One of the "10 Must-Read Political Books to Get You Through the 2022 Mid-Term Elections"
+<blockquote>A data analyst pores over the pivotal 1940 census and then zooms out, piecing together a revelatory biography of our national ritual, the 10-year accounting of the U.S.’s demographics and a once-in-a decade mosaic of the American people....A vibrant bird's-eye view of who we were and are and--most critically—-who we are becoming in the 21st century.</blockquote>
+</p>
+
 <a href="https://nightingaledvs.com/review-dan-bouk-democracys-datathe-hidden-stories-in-the-u-s-census-and-how-to-read-them/"><b>NIGHTINGALE MAGAZINE</b></a>
 <p>
 <blockquote>The practice of data storytelling often focuses on weaving a narrative by highlighting themes from a dataset. Author Dan Bouk flips this conventional practice on its head by instead telling a powerful story about the data itself.....<br><br>
@@ -148,7 +185,59 @@ When we visualize various types of data and use those visualizations to tell sto
 A page-turning examination of why we need to understand the census and its wide-ranging effects.</blockquote>
 </p>
 
+<a href="https://www.linkedin.com/pulse/nations-family-secrets-revealed-simson-garfinkel"><b>SIMSON GARFINKEL, Program Scientist at AI2050</b></a>
+<p>
+<blockquote>The focus of Democracy’s Data is the 1940 US Census, but the story of why the House is locked at 435 members is one of those bonus pieces of context that make this book such a compelling read. This book is filled with details about US history and the history of today’s social problems—a history that today is largely untaught and rarely discussed.<br><br>
+These kinds of details, personal reflections and context-filling make Democracy’s Data a pleasure to read, and highly informative.</blockquote>
+</p>
 
+ELLEN ULLMAN, author of <i>Close to the Machine</i>
+<p>
+<blockquote>Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br><br>
+Bouk tells us what is at stake: A battle for the very definition of personhood.</blockquote>
+</p>
+
+STEVEN JOHNSON, author of <i>The Ghost Map</i> and <i>Extra Life</i>
+<p>
+<blockquote>
+A tour de force of archival research that reads like a detective story, <i>Democracy's Data</i> reveals an entire secret history behind one of the most underappreciated institutions of modern civic life: the census. Following Dan Bouk through this riveting exploration of what it means to count and be counted has forever changed my understanding of the relationship between information and a democratic society.</blockquote>
+</p>
+
+RUHA BENJAMIN, author of <i>Race after Technology</i> and <i>Viral Justice</i>
+<p>
+<blockquote>
+A gifted storyteller, Dan Bouk reveals the political drama rumbling beneath a single census question and he illuminates the stakes erupting from a solitary statistic. It turns out before there was Big Data there was old-fashioned big data, no less political and consequential eighty years ago than it is today. The humanity behind the numbers has always mattered, but <i>Democracy’s Data</i> transformed my black & white understanding into technicolor! Everyone who cares about the plight of our democracy owes it to themself to read this essential book.</blockquote>
+</p>
+
+DANAH BOYD, author of <i>It's Complicated</i> and ethnographer of the 2020 Census
+<p>
+<blockquote>
+Who knew stories about government and statistics could be so engrossing?!?! Through intimate, finely-wrought storytelling, Bouk makes an esoteric infrastructure utterly enthralling. <i>Democracy's Data</i> takes you on a captivating journey, peeling back layers to help the reader see what lies behind the numbers.</blockquote>
+</p>
+
+MARGO ANDERSON, author of <i>The American Census</i>
+<p>
+<blockquote>
+In 1787, the framers of the Constitution decided that the new federal government would count the population every ten years and use the results to apportion seats in the House of Representatives and Electoral College. 'We, the people,' the constitution asserts in its preamble, are the foundation of the American state. 150 years, 16 censuses later, the 1940 census continued to fulfill that mandate. But it turned out that the census did so much more. Dan Bouk has written an extraordinary book revealing just how prescient the framers were.</blockquote>
+</p>
+
+DANIEL RODGERS, author of <i>Age of Fracture</i>
+<p>
+<blockquote>
+With a gift for stories and abundance of acutely probing questions, Dan Bouk brings the making of the U.S. census alive.  In sharply etched detail, he shows how democracy’s data was produced:  from the experts who wrote the census questions, to the politicians who tried to shape and exploit their work, to the millions of doorstep negotiations between census takers and their subjects where ordinary Americans worked to fit themselves into--or resist--its categories.  The politics of numbers has rarely been told as grippingly before.</blockquote>
+</p>
+
+ARI BERMAN, author of <i>Give Us the Ballot: The Modern Struggle for Voting Rights in America</i>
+<p>
+<blockquote>
+The U.S. Census is one of the most important yet least understood parts of American democracy and Dan Bouk masterfully tells this story through rich characters, eye-popping data, and deep historical analysis. A must-read for students of history and politics.</blockquote>
+</p>
+
+JER THORP, author of <i>Living in Data</i>
+<p>
+<blockquote>
+Page by page, Bouk polishes the seemingly dull census into a scintillating thing, gleaming with stories and sparkling with insight. Democracy's Data is a must-read for anyone who wants to know how data defines our democracy and our lives.</blockquote>
+</p>
 <!---
 
 
