@@ -83,21 +83,21 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <p></p>
 <hr>
 
-<!---
+
 <h3>Upcoming Events</h3>
 <ul>
 <li>
-Wednesday, Oct. 26 at 7pm ET<br>
-<b>Humanities NY <i>online</i></b>
-<br>HNY Community Conversations: Data and Democracy with Dan Bouk
+Friday, February 17 and Saturday, February 18<br>
+<b>Charles Babbage Institute<i>online</i></b>
+<br>Saturday Closing Keynote at 2:15pm ET for Automation by Design
 <br>
-<a href="https://www.eventbrite.com/e/hny-community-conversations-data-democracy-with-dan-bouk-tickets-435712045457?aff=Twitter">MORE INFO</a>
+<a href="https://cse.umn.edu/cbi/automation-design">MORE INFO</a>
 <br>#%<br>
 </li>
 
 </ul>
 
---->
+
 
 <h3>Events You Might Have Missed</h3>
 <p>They were recorded!</p>
@@ -132,6 +132,9 @@ Wednesday, Oct. 26 at 7pm ET<br>
 <a href="https://www.kqed.org/forum/2010101888727/1950-census-opens-window-into-american-history">Listen to Dan, with Margo Anderson, interviewed by Alexis Madrigal,</a> as they talk about the 1950 census and US history, on San Francisco's KQED.
 </li>
 <li>
+<a href="https://www.buzzsprout.com/1668904/11783921">Listen to Dan, interviewed by Kenyatta D. Berry,</a> host of PBS's <i>Genealogy Roadshow</i> as they talk about the place of census records in genealogy.
+</li>
+<li>
 Read this interview, <a href = "https://orderofm.com/conversation/reading-stories-in-data/" >"Reading Stories in Data"</a> with historian of science Sarah Pickman at <i>The Order of Multitudes</i>
 </li>
 <li>
@@ -164,7 +167,7 @@ The book’s straightforward title undersells its playful contents. “Democracy
 <a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><b>THE WASHINGTON POST</b></a>
 <p>
 <blockquote>Solid storytelling chops and a friendly tone help Bouk convince readers who might question just how interesting a book about the census can be. Surprise — it can be! In the hands of someone who understands it, the census is a mirror of the country’s ideals, values, flaws and attributes....<br><br>
-Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement."</blockquote>
+Bouk uncovers the great paradox about the decennial count: that it is an impossibly large and messy task, but also an awe-inspiring achievement.</blockquote>
 </p>
 
 <a href="https://www.oprahdaily.com/entertainment/books/g41756117/political-books-elections/"><b>OPRAH DAILY</b></a>
@@ -173,10 +176,16 @@ One of the "10 Must-Read Political Books to Get You Through the 2022 Mid-Term El
 <blockquote>A data analyst pores over the pivotal 1940 census and then zooms out, piecing together a revelatory biography of our national ritual, the 10-year accounting of the U.S.’s demographics and a once-in-a decade mosaic of the American people....A vibrant bird's-eye view of who we were and are and--most critically—-who we are becoming in the 21st century.</blockquote>
 </p>
 
+<a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><b>THE ATLANTIC</b></a>
+<p>
+One of "Seven Books that Will Make You Smarter"
+<blockquote>This searching, textured inquiry illuminates how much simple population figures can teach us.</blockquote>
+</p>
+
 <a href="https://nightingaledvs.com/review-dan-bouk-democracys-datathe-hidden-stories-in-the-u-s-census-and-how-to-read-them/"><b>NIGHTINGALE MAGAZINE</b></a>
 <p>
 <blockquote>The practice of data storytelling often focuses on weaving a narrative by highlighting themes from a dataset. Author Dan Bouk flips this conventional practice on its head by instead telling a powerful story about the data itself.....<br><br>
-When we visualize various types of data and use those visualizations to tell stories, we should take a minute to consider the story of how that data came to be in the first place. Rather than uncritically assuming the objectivity of data we work with, this book calls us to strategically assess the frame of the dataset, the way in which the data was gathered, and how we are using it. This book is a crucial read for anyone within the data visualization community who wants to learn how to read the stories behind the data."</blockquote>
+When we visualize various types of data and use those visualizations to tell stories, we should take a minute to consider the story of how that data came to be in the first place. Rather than uncritically assuming the objectivity of data we work with, this book calls us to strategically assess the frame of the dataset, the way in which the data was gathered, and how we are using it. This book is a crucial read for anyone within the data visualization community who wants to learn how to read the stories behind the data.</blockquote>
 </p>
 
 <a href="https://www.kirkusreviews.com/book-reviews/dan-bouk/democracys-data/"><b>KIRKUS REVIEWS</b></a>
