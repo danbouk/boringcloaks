@@ -87,8 +87,8 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <h3>Upcoming Events</h3>
 <ul>
 <li>
-Friday, February 17 and Saturday, February 18<br>
-<b>Charles Babbage Institute<i>online</i></b>
+Friday, February 17 and Saturday, February 18, 2023<br>
+<b>Charles Babbage Institute<i> online</i></b>
 <br>Saturday Closing Keynote at 2:15pm ET for Automation by Design
 <br>
 <a href="https://cse.umn.edu/cbi/automation-design">MORE INFO</a>
@@ -176,7 +176,7 @@ One of the "10 Must-Read Political Books to Get You Through the 2022 Mid-Term El
 <blockquote>A data analyst pores over the pivotal 1940 census and then zooms out, piecing together a revelatory biography of our national ritual, the 10-year accounting of the U.S.’s demographics and a once-in-a decade mosaic of the American people....A vibrant bird's-eye view of who we were and are and--most critically—-who we are becoming in the 21st century.</blockquote>
 </p>
 
-<a href="https://www.washingtonpost.com/outlook/2022/08/19/messy-monumental-task-carrying-out-us-census/"><b>THE ATLANTIC</b></a>
+<a href="https://www.theatlantic.com/books/archive/2022/11/nonfiction-explanatory-book-recommendations/672217/"><b>THE ATLANTIC</b></a>
 <p>
 One of "Seven Books that Will Make You Smarter"
 <blockquote>This searching, textured inquiry illuminates how much simple population figures can teach us.</blockquote>
