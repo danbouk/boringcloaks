@@ -123,6 +123,8 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 <li>Read <a href="https://www.wired.com/story/us-census-queerness-data/">How Does Queerness Fit Into the US Census?</a> excerpted for <i>WIRED</i>.</li>
 <li>Read <a href="https://lithub.com/what-langston-hughes-understood-about-how-power-relations-shaped-us-census-data/">What Langston Hughes Understood about How Power Relations Shaped US Census Data</a> excerpted for <i>LIT HUB</i>.</li>
 <li>Read <a href="https://www.wired.com/story/census-algorithm-politics/">Democracy Is Asking Too Much of Its Data</a> written for <i>WIRED</i>.</li>
+<li>Read <a href="https://www.washingtonpost.com/outlook/2022/04/01/1950-census-treasure-trove-data-was-last-its-kind/">The 1950 Census, a Treasure Trove of Data, Was the Last of Its Kind</a> written for <i>The Washington Post</i>.</li>
+
 <li>Read <a href = "https://civilrights.org/blog/the-census-as-a-tool-of-american-democracy/#" >"The Census as a Tool of American Democracy,"</a> an interview by Rachel Hooper at the Leadership Conference on Civil and Human Rights
 </li>
 <li>
