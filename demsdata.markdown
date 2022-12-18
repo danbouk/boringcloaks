@@ -87,6 +87,14 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <h3>Upcoming Events</h3>
 <ul>
 <li>
+Wednesday, February 8, 2023 at 12:15 pm<br>
+<b>Colgate University Horizon's Series</b>
+<br>in conversation with Sarah Lamdan, author of <a href="https://www.sup.org/books/title/?id=33205"><i>Data Cartels</i></a>
+<br>
+<a href="https://jfinnell.colgate.domains/horizons/">MORE INFO</a>
+<br>#%<br>
+</li>
+<li>
 Friday, February 17 and Saturday, February 18, 2023<br>
 <b>Charles Babbage Institute<i> online</i></b>
 <br>Saturday Closing Keynote at 2:15pm ET for Automation by Design
@@ -120,11 +128,11 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 
 <h3>Democracy's Data in Bite-Sized Pieces</h3>
 <ul>
+<li>Read <a href="https://annehelen.substack.com/p/there-are-stories-in-the-data">There Are Stories in the Data!</a> a conversation with Anne Helen Petersen in the <i>CULTURE STUDY</i> newsletter.</li>
 <li>Read <a href="https://www.wired.com/story/us-census-queerness-data/">How Does Queerness Fit Into the US Census?</a> excerpted for <i>WIRED</i>.</li>
 <li>Read <a href="https://lithub.com/what-langston-hughes-understood-about-how-power-relations-shaped-us-census-data/">What Langston Hughes Understood about How Power Relations Shaped US Census Data</a> excerpted for <i>LIT HUB</i>.</li>
 <li>Read <a href="https://www.wired.com/story/census-algorithm-politics/">Democracy Is Asking Too Much of Its Data</a> written for <i>WIRED</i>.</li>
 <li>Read <a href="https://www.washingtonpost.com/outlook/2022/04/01/1950-census-treasure-trove-data-was-last-its-kind/">The 1950 Census, a Treasure Trove of Data, Was the Last of Its Kind</a> written for <i>The Washington Post</i>.</li>
-
 <li>Read <a href = "https://civilrights.org/blog/the-census-as-a-tool-of-american-democracy/#" >"The Census as a Tool of American Democracy,"</a> an interview by Rachel Hooper at the Leadership Conference on Civil and Human Rights
 </li>
 <li>
@@ -137,7 +145,13 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 <a href="https://www.buzzsprout.com/1668904/11783921">Listen to Dan, interviewed by Kenyatta D. Berry,</a> host of PBS's <i>Genealogy Roadshow</i> as they talk about the place of census records in genealogy.
 </li>
 <li>
+<a href="https://podcasts.apple.com/us/podcast/episode-17-democracys-data/id1553529843?i=1000589094024">Listen to Dan's appearance on <i>Data Brunch with ICPSR</i>
+</li>
+<li>
 Read this interview, <a href = "https://orderofm.com/conversation/reading-stories-in-data/" >"Reading Stories in Data"</a> with historian of science Sarah Pickman at <i>The Order of Multitudes</i>
+</li>
+<li>
+<a href="https://newbooksnetwork.com/dan-bouk-democracys-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them-mcd-2022">Listen</a> to Dan talk <i>Democracy's Data</i> with STS scholar Laura Stark and her Vanderbilt students on the <i>New Books Networks</i>.
 </li>
 <li>
 <a href="https://newbooksnetwork.com/democracys-data">Listen</a> to Dan talk <i>Democracy's Data</i> with sociologist Deidre Tyler on the <i>New Books Networks</i>.
@@ -184,6 +198,11 @@ One of "Seven Books that Will Make You Smarter"
 <blockquote>This searching, textured inquiry illuminates how much simple population figures can teach us.</blockquote>
 </p>
 
+<a href="https://themillions.com/2022/12/a-year-in-reading-maud-newton-3.html"><b>Maud Newton for THE MILLIONS</b></a>
+<p>
+<blockquote>Smart fun for genealogy nerds but also a must-read for anyone interested in the construction and systemic effects of big data.</blockquote>
+</p>
+
 <a href="https://nightingaledvs.com/review-dan-bouk-democracys-datathe-hidden-stories-in-the-u-s-census-and-how-to-read-them/"><b>NIGHTINGALE MAGAZINE</b></a>
 <p>
 <blockquote>The practice of data storytelling often focuses on weaving a narrative by highlighting themes from a dataset. Author Dan Bouk flips this conventional practice on its head by instead telling a powerful story about the data itself.....<br><br>
@@ -200,6 +219,11 @@ A page-turning examination of why we need to understand the census and its wide-
 <p>
 <blockquote>The focus of Democracy’s Data is the 1940 US Census, but the story of why the House is locked at 435 members is one of those bonus pieces of context that make this book such a compelling read. This book is filled with details about US history and the history of today’s social problems—a history that today is largely untaught and rarely discussed.<br><br>
 These kinds of details, personal reflections and context-filling make Democracy’s Data a pleasure to read, and highly informative.</blockquote>
+</p>
+
+<a href="https://www.hypnagogicfun.com/2022/12/"><b>David Potash, President, Wilbur Wright College</b></a>
+<p>
+<blockquote>Best of all, Bouk captures individual stories in the data. He tracks down relatives, famous people and everyday Americans. Responses in the census give clues to living arrangements, families, racism, sexism, opportunity and challenge. It truly is a data book of America’s lives. His deep appreciation of that, of the information gathered and reported for individual people, gives the entire enterprise a warm and human glow. The census may be numbers, but those numbers represent the valuable and complicated lives of individual people.</blockquote>
 </p>
 
 ELLEN ULLMAN, author of <i>Close to the Machine</i>
