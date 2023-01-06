@@ -3,7 +3,7 @@ layout: post
 title:  "Data Driven"
 date:   2023-01-05 00:16:35 -0400
 categories:
-image: /images/
+image: /images/2023_Levy_DataDriven.jpg
 ---
 
 [![Cover image for Karen Levy's book *Data Driven*](/images/2023_Levy_DataDriven.jpg)](https://press.princeton.edu/books/hardcover/9780691175300/data-driven)
