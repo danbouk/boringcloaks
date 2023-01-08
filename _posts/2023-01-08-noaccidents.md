@@ -6,7 +6,7 @@ categories:
 image: /images/2023_Singer_NoAccidents.jpg
 ---
 
-[![Cover image for Jessie Singer's book *There Are No Accidents*](/images/2023_Singer_NoAccidents.jpg)](????)
+[![Cover image for Jessie Singer's book *There Are No Accidents*](/images/2023_Singer_NoAccidents.jpg)](https://www.simonandschuster.com/books/There-Are-No-Accidents/Jessie-Singer/9781982129668)
 
 *There Are No Accidents* is a polemical title for a revolutionary book. At its core is this idea: We live in a world suffused with people who suffer from "accidents" because we live in a world with environments allowed to be, often built to be, dangerous. The book's radical assertion is that unforeseen events do not necessarily cause excessive harm. **In a properly designed system, things can go off the rails without actually going *off the rails*.**
 
