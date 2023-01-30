@@ -89,7 +89,7 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <li>
 Wednesday, February 8, 2023 at 12:15 pm<br>
 <b>Colgate University Horizon's Series</b>
-<br>in conversation with Sarah Lamdan, author of <a href="https://www.sup.org/books/title/?id=33205"><i>Data Cartels</i></a>
+<br>"Democracy's Data Cartels" in conversation with Sarah Lamdan, author of <a href="https://www.sup.org/books/title/?id=33205"><i>Data Cartels</i></a>
 <br>
 <a href="https://jfinnell.colgate.domains/horizons/">MORE INFO</a>
 <br>#%<br>
@@ -100,6 +100,29 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 <br>Saturday Closing Keynote at 2:15pm ET for Automation by Design
 <br>
 <a href="https://cse.umn.edu/cbi/automation-design">MORE INFO</a>
+<br>#%<br>
+</li>
+<li>
+Thursday, February 23, 2023<br>
+<b>Carnegie Mellon University<i> Kresge Auditorium</i></b>
+<br>"Data, Democracy, and the Census: History and Genealogy in Conversation,” with <a href="https://tammyhepps.com/census-studies/">Tammy Hepps</a> at 5pm ET
+<br>
+<br>#%<br>
+</li>
+<li>
+Monday, April 3 and Tuesday, April 4, 2023<br>
+<b>Middlebury College's midd.data</b>
+<br>Lecture on Monday at 7:30pm and workshop on Tuesday at 12:40pm ET
+<br>
+<a href="https://www.middlebury.edu/office/midddata/news/dan-bouk-democracys-data-and-finding-wonder-boring">MORE INFO</a>
+<br>#%<br>
+</li>
+<li>
+Wednesday, April 5, 2023<br>
+<b>International Association of Privacy Professionals Global Summit</b>
+<br>Keynote and book-signing at 10am ET (alongside other keynotes by Danielle Citron!! and Trevor Noah!!)
+<br>
+<a href="https://iapp.org/conference/global-privacy-summit/keynote-speakers-gps23/">MORE INFO</a>
 <br>#%<br>
 </li>
 
