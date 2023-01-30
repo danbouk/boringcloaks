@@ -88,7 +88,7 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <ul>
 <li>
 Wednesday, February 8, 2023 at 12:15 pm<br>
-<b>Colgate University Horizon's Series</b>
+<b>Colgate University Horizons Series</b>
 <br>"Democracy's Data Cartels" in conversation with Sarah Lamdan, author of <a href="https://www.sup.org/books/title/?id=33205"><i>Data Cartels</i></a>
 <br>
 <a href="https://jfinnell.colgate.domains/horizons/">MORE INFO</a>
