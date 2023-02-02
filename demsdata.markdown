@@ -106,6 +106,7 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 Thursday, February 23, 2023<br>
 <b>Carnegie Mellon University<i> Kresge Auditorium</i></b>
 <br>"Data, Democracy, and the Census: History and Genealogy in Conversation,” <br>with <a href="https://tammyhepps.com/census-studies/">Tammy Hepps</a> at 5pm ET
+<br><a href="https://www.cmu.edu/dietrich/history/events/updated-data,-democracy,-and-the-census.pdf">see the poster</a>
 <br>#%<br>
 </li>
 <li>
