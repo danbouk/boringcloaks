@@ -167,6 +167,7 @@ Wednesday, April 5, 2023<br>
 <li>
 <a href="https://www.buzzsprout.com/1668904/11783921">Listen to Dan, interviewed by Kenyatta D. Berry,</a> host of PBS's <i>Genealogy Roadshow</i> as they talk about the place of census records in genealogy.
 </li>
+<li>
 <a href="https://democracynerd.us/episode/spotchecking-the-enumerators-to-prevent-curbstoning-inside-the-1940-census-w-dan-bouk">Listen to Dan, interviewed by Jefferson Smith,</a> host of <i>Democracy Nerd</i> as they talk about budgets, revel in census lingo, accidentally fulfill Dan's dream of doing an emergency NBA trade deadline podcast.
 </li>
 <li>
@@ -223,7 +224,7 @@ One of "Seven Books that Will Make You Smarter"
 <blockquote>This searching, textured inquiry illuminates how much simple population figures can teach us.</blockquote>
 </p>
 
-<a href="https://themillions.com/2022/12/a-year-in-reading-maud-newton-3.html"><b>Maud Newton for THE MILLIONS</b></a>
+<a href="https://themillions.com/2022/12/a-year-in-reading-maud-newton-3.html"><b>MAUD NEWTON for THE MILLIONS</b></a>
 <p>
 <blockquote>Smart fun for genealogy nerds but also a must-read for anyone interested in the construction and systemic effects of big data.</blockquote>
 </p>
@@ -246,12 +247,12 @@ A page-turning examination of why we need to understand the census and its wide-
 These kinds of details, personal reflections and context-filling make Democracy’s Data a pleasure to read, and highly informative.</blockquote>
 </p>
 
-<a href="https://www.hypnagogicfun.com/2022/12/"><b>David Potash, President, Wilbur Wright College</b></a>
+<a href="https://www.hypnagogicfun.com/2022/12/"><b>DAVID POTASH, President, Wilbur Wright College</b></a>
 <p>
 <blockquote>Best of all, Bouk captures individual stories in the data. He tracks down relatives, famous people and everyday Americans. Responses in the census give clues to living arrangements, families, racism, sexism, opportunity and challenge. It truly is a data book of America’s lives. His deep appreciation of that, of the information gathered and reported for individual people, gives the entire enterprise a warm and human glow. The census may be numbers, but those numbers represent the valuable and complicated lives of individual people.</blockquote>
 </p>
 
-<a href="https://buttondown.email/jillianefoley/archive/forward-progress"><b>Jillian Foley, <i>Keyed In</i></b></a>
+<a href="https://buttondown.email/jillianefoley/archive/forward-progress"><b>JILLIAN FOLEY, for <i>Keyed In</i></b></a>
 <p>
 <blockquote>It's a really lovely deep-dive into the 1940 US census, the social and political forces that shaped it, and how the questions captured the messy reality of American lives, or didn't....It's the kind of book that's just as good for us historians as it is as a gift for our dads. And the audiobook narration is great, too.</blockquote>
 </p>
