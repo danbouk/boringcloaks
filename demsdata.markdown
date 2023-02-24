@@ -104,7 +104,7 @@ Friday, February 17 and Saturday, February 18, 2023<br>
 </li>
 <li>
 Thursday, February 23, 2023<br>
-<b>Carnegie Mellon University<i> Kresge Auditorium</i></b>
+<b>Carnegie Mellon University<i> Kresge Theater</i></b>
 <br>"Data, Democracy, and the Census: History and Genealogy in Conversation,” <br>with <a href="https://tammyhepps.com/census-studies/">Tammy Hepps</a> at 5pm ET
 <br><a href="https://www.cmu.edu/dietrich/history/events/updated-data,-democracy,-and-the-census.pdf">see the poster</a>
 <br>#%<br>
@@ -166,6 +166,8 @@ Wednesday, April 5, 2023<br>
 </li>
 <li>
 <a href="https://www.buzzsprout.com/1668904/11783921">Listen to Dan, interviewed by Kenyatta D. Berry,</a> host of PBS's <i>Genealogy Roadshow</i> as they talk about the place of census records in genealogy.
+</li>
+<a href="https://democracynerd.us/episode/spotchecking-the-enumerators-to-prevent-curbstoning-inside-the-1940-census-w-dan-bouk">Listen to Dan, interviewed by Jefferson Smith,</a> host of <i>Democracy Nerd</i> as they talk about budgets, revel in census lingo, accidentally fulfill Dan's dream of doing an emergency NBA trade deadline podcast.
 </li>
 <li>
 <a href="https://podcasts.apple.com/us/podcast/episode-17-democracys-data/id1553529843?i=1000589094024">Listen</a> to Dan's appearance on <i>Data Brunch with ICPSR</i>
@@ -249,6 +251,11 @@ These kinds of details, personal reflections and context-filling make Democracy�
 <blockquote>Best of all, Bouk captures individual stories in the data. He tracks down relatives, famous people and everyday Americans. Responses in the census give clues to living arrangements, families, racism, sexism, opportunity and challenge. It truly is a data book of America’s lives. His deep appreciation of that, of the information gathered and reported for individual people, gives the entire enterprise a warm and human glow. The census may be numbers, but those numbers represent the valuable and complicated lives of individual people.</blockquote>
 </p>
 
+<a href="https://buttondown.email/jillianefoley/archive/forward-progress"><b>Jillian Foley, <i>Keyed In</i></b></a>
+<p>
+<blockquote>It's a really lovely deep-dive into the 1940 US census, the social and political forces that shaped it, and how the questions captured the messy reality of American lives, or didn't....It's the kind of book that's just as good for us historians as it is as a gift for our dads. And the audiobook narration is great, too.</blockquote>
+</p>
+
 ELLEN ULLMAN, author of <i>Close to the Machine</i>
 <p>
 <blockquote>Dan Bouk's <i>Democracy's Data</i> is a revelation of the political and cultural forces that led to the 1940 census, and of the philosophical questions that underlie all attempts to classify people. What do we measure? And who has the power to decide?<br><br>
@@ -296,6 +303,14 @@ JER THORP, author of <i>Living in Data</i>
 <blockquote>
 Page by page, Bouk polishes the seemingly dull census into a scintillating thing, gleaming with stories and sparkling with insight. Democracy's Data is a must-read for anyone who wants to know how data defines our democracy and our lives.</blockquote>
 </p>
+
+
+<a href="https://climbingmyfamilytree.blogspot.com/2023/02/deep-dive-inside-census-process.html"><b>Marian B. Wood, Climbing My Family Tree</b></a>
+<p>
+<blockquote>No boring, stale history here. His highly readable book puts the 1940 Census under the microscope as a great example of hidden stories of people and the nation--and how to tease out stories from the mass of data collected. Highly recommended!...of interest to all genealogy folks who use US Census data in their research
+</blockquote>
+</p>
+
 <!---
 
 
