@@ -103,7 +103,6 @@ MORE INFO TK
 <p>They were recorded!</p>
 <ul>
 <li><a href="https://iapp.org/news/video/keynote-dan-bouk-iapp-global-privacy-summit-2023/">Watch Dan</a> at the IAPP Global Summit, where he makes a pitch for why good statistics require robust data privacy.</li>
-<li>
 <li><a href="https://www.youtube.com/watch?v=2_iblvMlfiM">Watch Dan and Maud Newton</a> speak at a National Archives event in wide-ranging conversation about the census and the records we rely on to construct stories about our families, communities, and country.</li>
 <li>
 <a href="https://www.youtube.com/watch?v=ZauBZviu_xE">Watch Dan</a> tell the story of <i>Democracy's Data</i> for the New England Historic Genealogical Society.
