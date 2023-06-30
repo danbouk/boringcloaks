@@ -102,7 +102,7 @@ MORE INFO TK
 <h3>Events You Might Have Missed</h3>
 <p>They were recorded!</p>
 <ul>
-<li><a href="https://iapp.org/news/video/keynote-dan-bouk-iapp-global-privacy-summit-2023/">Watch Dan at the IAPP Global Summit, where he makes a pitch for why good statistics require robust data privacy.</li>
+<li><a href="https://iapp.org/news/video/keynote-dan-bouk-iapp-global-privacy-summit-2023/">Watch Dan</a> at the IAPP Global Summit, where he makes a pitch for why good statistics require robust data privacy.</li>
 <li>
 <li><a href="https://www.youtube.com/watch?v=2_iblvMlfiM">Watch Dan and Maud Newton</a> speak at a National Archives event in wide-ranging conversation about the census and the records we rely on to construct stories about our families, communities, and country.</li>
 <li>
@@ -112,7 +112,7 @@ MORE INFO TK
 <a href= "https://www.youtube.com/watch?v=PVdek1yDja0">Watch Dan</a> talk with Alex Hanna, Director of Research at the Distributed AI Research Institute, in a conversation hosted by Data & Society's People and Culture Manager, Ronteau Coppin.
 </li>
 <li>
-<a href= "https://www.youtube.com/watch?v=QXOk14GC41A">Watch Dan</a> talk CLASSIFICATION with <a href="https://www.ics.uci.edu/~gbowker/">Geoff Bowker</a> (a Bouk and Bowker event!) in conversation hosted by the New School's < href="https://www.newschool.edu/nssr/faculty/sareeta-amrute/">Sareeta Amrute</a> and organized by <a href="https://ipk.nyu.edu/people/mona-sloane/">Mona Sloane</a> and the <i>Co-Opting AI series</i>.
+<a href= "https://www.youtube.com/watch?v=QXOk14GC41A">Watch Dan</a> talk CLASSIFICATION with <a href="https://www.ics.uci.edu/~gbowker/">Geoff Bowker</a> (a Bouk and Bowker event!) in conversation hosted by the New School's <a href="https://www.newschool.edu/nssr/faculty/sareeta-amrute/">Sareeta Amrute</a> and organized by <a href="https://ipk.nyu.edu/people/mona-sloane/">Mona Sloane</a> and the <i>Co-Opting AI series</i>.
 </li>
 <li>
 <a href="https://www.nypl.org/blog/2022/11/04/doc-chat-ep55-stories-behind-census">Watch Dan and the New York Public Library's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the NYPL.
