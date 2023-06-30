@@ -87,42 +87,11 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <h3>Upcoming Events</h3>
 <ul>
 <li>
-Wednesday, February 8, 2023 at 12:15 pm<br>
-<b>Colgate University Horizons Series</b>
-<br>"Democracy's Data Cartels" in conversation with Sarah Lamdan, author of <a href="https://www.sup.org/books/title/?id=33205"><i>Data Cartels</i></a>
+Friday, October 20, 2023 at 12 pm<br>
+<b>Cornell Population Center</b>
+<br>A conversation with <a href="http://danhirschman.com/">Dan Hirschman</a>
 <br>
-<a href="https://jfinnell.colgate.domains/horizons/">MORE INFO</a>
-<br>#%<br>
-</li>
-<li>
-Friday, February 17 and Saturday, February 18, 2023<br>
-<b>Charles Babbage Institute<i> online</i></b>
-<br>Saturday Closing Keynote at 2:15pm ET for Automation by Design
-<br>
-<a href="https://cse.umn.edu/cbi/automation-design">MORE INFO</a>
-<br>#%<br>
-</li>
-<li>
-Thursday, February 23, 2023<br>
-<b>Carnegie Mellon University<i> Kresge Theater</i></b>
-<br>"Data, Democracy, and the Census: History and Genealogy in Conversation,” <br>with <a href="https://tammyhepps.com/census-studies/">Tammy Hepps</a> at 5pm ET
-<br><a href="https://www.cmu.edu/dietrich/history/events/updated-data,-democracy,-and-the-census.pdf">see the poster</a>
-<br>#%<br>
-</li>
-<li>
-Monday, April 3 and Tuesday, April 4, 2023<br>
-<b>Middlebury College's midd.data</b>
-<br>Lecture on Monday at 7:30pm and workshop on Tuesday at 12:40pm ET
-<br>
-<a href="https://www.middlebury.edu/office/midddata/news/dan-bouk-democracys-data-and-finding-wonder-boring">MORE INFO</a>
-<br>#%<br>
-</li>
-<li>
-Wednesday, April 5, 2023<br>
-<b>International Association of Privacy Professionals Global Summit</b>
-<br>Keynote and book-signing at 10am ET (alongside other keynotes by Danielle Citron!! and Trevor Noah!!)
-<br>
-<a href="https://iapp.org/conference/global-privacy-summit/keynote-speakers-gps23/">MORE INFO</a>
+MORE INFO TK
 <br>#%<br>
 </li>
 
@@ -133,12 +102,17 @@ Wednesday, April 5, 2023<br>
 <h3>Events You Might Have Missed</h3>
 <p>They were recorded!</p>
 <ul>
+<li><a href="https://iapp.org/news/video/keynote-dan-bouk-iapp-global-privacy-summit-2023/">Watch Dan at the IAPP Global Summit, where he makes a pitch for why good statistics require robust data privacy.</li>
+<li>
 <li><a href="https://www.youtube.com/watch?v=2_iblvMlfiM">Watch Dan and Maud Newton</a> speak at a National Archives event in wide-ranging conversation about the census and the records we rely on to construct stories about our families, communities, and country.</li>
 <li>
 <a href="https://www.youtube.com/watch?v=ZauBZviu_xE">Watch Dan</a> tell the story of <i>Democracy's Data</i> for the New England Historic Genealogical Society.
 </li>
 <li>
 <a href= "https://www.youtube.com/watch?v=PVdek1yDja0">Watch Dan</a> talk with Alex Hanna, Director of Research at the Distributed AI Research Institute, in a conversation hosted by Data & Society's People and Culture Manager, Ronteau Coppin.
+</li>
+<li>
+<a href= "https://www.youtube.com/watch?v=QXOk14GC41A">Watch Dan</a> talk CLASSIFICATION with <a href="https://www.ics.uci.edu/~gbowker/">Geoff Bowker</a> (a Bouk and Bowker event!) in conversation hosted by the New School's < href="https://www.newschool.edu/nssr/faculty/sareeta-amrute/">Sareeta Amrute</a> and organized by <a href="https://ipk.nyu.edu/people/mona-sloane/">Mona Sloane</a> and the <i>Co-Opting AI series</i>.
 </li>
 <li>
 <a href="https://www.nypl.org/blog/2022/11/04/doc-chat-ep55-stories-behind-census">Watch Dan and the New York Public Library's Julie Golia, </a> talk about partners in historical census records in a conversation highlighting the sources teachers can use in their classrooms or consult at the NYPL.
@@ -175,6 +149,9 @@ Wednesday, April 5, 2023<br>
 </li>
 <li>
 Read this interview, <a href = "https://orderofm.com/conversation/reading-stories-in-data/" >"Reading Stories in Data"</a> with historian of science Sarah Pickman at <i>The Order of Multitudes</i>
+</li>
+<li>
+<a href="https://think.kera.org/2023/07/03/what-does-the-census-tell-us-about-our-democracy/">Listen</a> to Dan talk <i>Democracy's Data</i> with Krys Boyd at KBER's <i>think</i>. (Just rebroadcast for the 4th of July holiday!)
 </li>
 <li>
 <a href="https://newbooksnetwork.com/dan-bouk-democracys-data-the-hidden-stories-in-the-u-s-census-and-how-to-read-them-mcd-2022">Listen</a> to Dan talk <i>Democracy's Data</i> with STS scholar Laura Stark and her Vanderbilt students on the <i>New Books Networks</i>.
