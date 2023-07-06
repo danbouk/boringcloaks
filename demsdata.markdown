@@ -94,7 +94,14 @@ Friday, October 20, 2023 at 12 pm<br>
 MORE INFO TK
 <br>#%<br>
 </li>
-
+<li>
+November 16-19, exact time TBA<br>
+<b>Social Science History Association Meeting</b>
+<br>Author Meets Critic Session
+<br>
+Washington, D.C.
+<br>#%<br>
+</li>
 </ul>
 
 
