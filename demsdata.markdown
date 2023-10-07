@@ -89,17 +89,25 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <li>
 Friday, October 20, 2023 at 12 pm<br>
 <b>Cornell Population Center</b>
-<br>A conversation with <a href="http://danhirschman.com/">Dan Hirschman</a>
+<br>A conversation with <a href="https://sociology.cornell.edu/jamie-budnick">Jamie Budnick</a> and <a href="http://danhirschman.com/">Dan Hirschman</a>
 <br>
-MORE INFO TK
+<a href="https://publicpolicy.cornell.edu/cpc/news-and-events/seminars-and-speakers/">386 Statler Hall</a>
 <br>#%<br>
 </li>
 <li>
-November 16-19, exact time TBA<br>
+November 18, 1:15pm<br>
 <b>Social Science History Association Meeting</b>
-<br>Author Meets Critic Session
+<br><a href="https://ssha2023.ssha.org/sessions/185">Author Meets Critic Session</a>
 <br>
 Washington, D.C.
+<br>#%<br>
+</li>
+<li>
+Wednesday, December 13, 2023 at 6 pm<br>
+<b>New York History of Science Lecture</b>
+<br>"Independent Accounts: How the NYC Budget Came to Look Like a Lever for Change"</a>
+<br>
+<a href="https://scienceandsociety.columbia.edu/events/dan-bouk-independent-accounts-how-nyc-budget-came-look-lever-change">Gallatin School, Room 801, NYU</a>
 <br>#%<br>
 </li>
 </ul>
@@ -140,6 +148,12 @@ Washington, D.C.
 </li>
 <li>
 <a href="https://draftingthepast.com/?p=2288">Listen to Dan, interviewed by Kate Carpenter,</a> as they talk about the craft of writing history.
+</li>
+<li>
+<a href="https://www.buzzsprout.com/1983649/13637146">Listen to Dan, interviewed by Shawn C. Fettig,</a> on "From Numbers to Narratives" for the <i>Deep Dive</i> podcast.
+</li>
+<li>
+<a href="https://podcasts.apple.com/us/podcast/23-data-in-democracy/id1642176293?i=1000620705184">Listen to Dan, interviewed by Charlie Yielding and Charlie Apigian,</a> on the <i>Data 4 All</i> podcast in this episode on "Data for Democracy."
 </li>
 <li>
 <a href="https://www.kqed.org/forum/2010101888727/1950-census-opens-window-into-american-history">Listen to Dan, with Margo Anderson, interviewed by Alexis Madrigal,</a> as they talk about the 1950 census and US history, on San Francisco's KQED.
@@ -210,6 +224,16 @@ One of "Seven Books that Will Make You Smarter"
 <a href="https://themillions.com/2022/12/a-year-in-reading-maud-newton-3.html"><b>MAUD NEWTON for THE MILLIONS</b></a>
 <p>
 <blockquote>Smart fun for genealogy nerds but also a must-read for anyone interested in the construction and systemic effects of big data.</blockquote>
+</p>
+
+<a href="https://journals.ala.org/index.php/dttp/article/view/8018/11154"><b>AMY BRUNVAND for the AMERICAN LIBRARY ASSOCIATION</b></a>
+<p>
+<blockquote>Tedium, he believes, can be a smokescreen for things that somebody deliberately wants to hide, so he’s on a personal mission to cut through the superficial dullness. Bouk is certainly the right person for the job. His enthusiasm for bureaucratic data is irresistible, and his meticulously researched writing is witty, lively, and not at all boring....Fundamentally, this is not simply a history of the Census, but a book about information literacy—the social context of how data is created and used.</blockquote>
+</p>
+
+<a href="https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit"><b>London Review of Books</b></a>
+<p>
+<blockquote>[Counting]is not​ an ideologically neutral process. Dan Bouk’s history of the 1940 US census, Democracy’s Data, makes that point very thoroughly.</blockquote>
 </p>
 
 <a href="https://nightingaledvs.com/review-dan-bouk-democracys-datathe-hidden-stories-in-the-u-s-census-and-how-to-read-them/"><b>NIGHTINGALE MAGAZINE</b></a>
@@ -295,6 +319,20 @@ Page by page, Bouk polishes the seemingly dull census into a scintillating thing
 </blockquote>
 </p>
 
+<a href="https://kinlane.com/deprogramming/"><b>Kin Lane, "The API Evangelist"</b></a>
+<p>
+<blockquote>This book was the closest I have come to a story of how I see APIs shaping the world around us. It was a powerful narrative of how data is shaping our lives, and silently and not so silently defining who we are. Democracy's Data provided me with a single slice of America seen through the lense of the 1940 census, which reflects something that is playing out over and over in real-time when it comes to social media and the other digital applications we use online. </blockquote>
+</p>
+
+<a href="https://dylanirlbeck.com/writing/democracys-data"><b>DYLAN IRLBECK</b></a>
+<p>
+<blockquote>All in all, Democracy’s Data was an engaging crash course in how to critically read data, and I’d highly recommend it for anyone who collects, analyzes, or operates on data. </blockquote>
+</p>
+
+<a href="https://vdavez.com/2022/12/democracys-data/"><b>DAVE ZVENYACH</b></a>
+<p>
+<blockquote>Bouk claims to specialize in studying “modern things shrouded in cloaks of boringness”. And he’s clearly very good at it. And yet, convincing you to read Bouk’s book is not the point of this post. Instead, I wanted to share that Bouk’s book caused me to reconsider a concept that is pretty familiar in the world of data: “data quality.”....reading Democracy’s Data offers an alternative framing: behind any data are stories. When you read data, if you read it deeply and with dignity, you can learn greater truths about the motivations and goals across the data lifecycle....This book taught me, therefore, to remove the phrase “garbage in, garbage out” from my vocabulary when talking about data. Instead, when confronted with the inevitable “data quality” issues that affect any organization, I will try and approach the discussion with greater curiosity about the question: “what is this organization, if this is its data?”</blockquote>
+</p>
 <!---
 
 
