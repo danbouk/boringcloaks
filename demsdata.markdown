@@ -110,6 +110,14 @@ Wednesday, December 13, 2023 at 6 pm<br>
 <a href="https://scienceandsociety.columbia.edu/events/dan-bouk-independent-accounts-how-nyc-budget-came-look-lever-change">Gallatin School, Room 801, NYU</a>
 <br>#%<br>
 </li>
+<li>
+Thursday, April 25, 2023 at 7 pm<br>
+<b>Cary Memorial Library, Lexington, MA</b>
+<br>"Reading the Stories Hidden in Democracy's Data"</a>
+<br>
+MORE INTO TK
+<br>#%<br>
+</li>
 </ul>
 
 
@@ -148,6 +156,9 @@ Wednesday, December 13, 2023 at 6 pm<br>
 </li>
 <li>
 <a href="https://draftingthepast.com/?p=2288">Listen to Dan, interviewed by Kate Carpenter,</a> as they talk about the craft of writing history.
+</li>
+<li>
+<a href="https://abcnews.go.com/fivethirtyeight/video/hidden-stories-us-census-fivethirtyeight-politics-podcast-97878670">Watch Dan, interviewed by Galen Druke,</a> on <i>FiveThirtyEight's</i> Politics Podcast.
 </li>
 <li>
 <a href="https://www.buzzsprout.com/1983649/13637146">Listen to Dan, interviewed by Shawn C. Fettig,</a> on "From Numbers to Narratives" for the <i>Deep Dive</i> podcast.
