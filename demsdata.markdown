@@ -84,39 +84,40 @@ Don't take my word for it. You can <a href="https://bookshop.org/books/democracy
 <hr>
 
 
-<h3>Upcoming Events</h3>
+<h3>Recent Events</h3>
 <ul>
 <li>
-Friday, October 20, 2023 at 12 pm<br>
-<b>Cornell Population Center</b>
-<br>A conversation with <a href="https://sociology.cornell.edu/jamie-budnick">Jamie Budnick</a> and <a href="http://danhirschman.com/">Dan Hirschman</a>
-<br>
-<a href="https://publicpolicy.cornell.edu/cpc/news-and-events/seminars-and-speakers/">386 Statler Hall</a>
-<br>#%<br>
-</li>
-<li>
-November 18, 1:15pm<br>
-<b>Social Science History Association Meeting</b>
-<br><a href="https://ssha2023.ssha.org/sessions/185">Author Meets Critic Session</a>
-<br>
-Washington, D.C.
-<br>#%<br>
-</li>
-<li>
-Wednesday, December 13, 2023 at 6 pm<br>
+Wednesday, April 3, 2024 at 6 pm<br>
 <b>New York History of Science Lecture</b>
-<br>"Independent Accounts: How the NYC Budget Came to Look Like a Lever for Change"</a>
+<br>"Independent Accounts: The NYC Budget in 2020"</a>
 <br>
 <a href="https://scienceandsociety.columbia.edu/events/dan-bouk-independent-accounts-how-nyc-budget-came-look-lever-change">Gallatin School, Room 801, NYU</a>
 <br>#%<br>
 </li>
 <li>
+Friday, April 5, 2024 at 12:30 pm<br>
+<b>University of Wisconsin Applied Population Lab</b>
+<br>"The Statistical Lives of Elbertie Foudray"</a>
+<br>
+<a href="https://history.wisc.edu/event/dan-bouk-democracy-and-data-the-statistical-lives-of-elbertie-foudray/">Orchard View Room, Discovery Building</a>
+<br>#%<br>
+</li>
+
+<li>
 Thursday, April 25, 2023 at 7 pm<br>
 <b>Cary Memorial Library, Lexington, MA</b>
 <br>"Reading the Stories Hidden in Democracy's Data"</a>
 <br>
-MORE INTO TK
+<a href="https://carylibrary.assabetinteractive.com/calendar/reading-the-stories-hidden-in-democracys-data/?utm_source=danbouk&utm_medium=email&utm_campaign=boston-edinburgh-come-say-hello">What a library!</a>
 <br>#%<br>
+<li>
+Monday, May 13, 2024 10am-12pm<br>
+<b>University of Edinburgh</b>
+<br><a href="https://efi.ed.ac.uk/efi-event/independent-accounts-stories-of-expertise-and-politics-in-the-new-york-city-budget-since-1989/">"Independent Accounts: Stories of Expertise and Politics in the New York City Budget since 1989"</a>
+<br>
+High School Yards, Edinburgh and online
+<br>#%<br>
+</li>
 </li>
 </ul>
 
